@@ -2,7 +2,7 @@
 
 ## 目录
 
-- [x] [Combination Sum](combination_sum/combination_sum.md)
+- [x] [Combination Sum](doc/combination_sum.md)
 
 
 - [x] [Combination Sum 2](combination_sum_2/combination_sum_2.md)
