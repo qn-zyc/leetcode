@@ -1,8 +1,9 @@
 package combination_sum_3
 
 import (
-	"github.com/zhangyuchen0411/leetcode/utils"
 	"testing"
+
+	"github.com/zhangyuchen0411/leetcode/utils"
 )
 
 func testCombinationSum3(t *testing.T, f func(int, int) [][]int) {
