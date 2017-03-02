@@ -13,6 +13,8 @@
 - [x] [Two Sum](doc/TwoSum.md)
 - [x] [Add Two Numbers](doc/AddTwoNumbers.md)
 - [x] [longest_substring_without_repeating_characters](doc/longest_substring_without_repeating_characters.md)
+- [x] [longest_palindromic_substring](doc/longest_palindromic_substring.md)
+- [x] ​
 
 
 
