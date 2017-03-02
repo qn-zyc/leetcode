@@ -15,7 +15,7 @@
 - [x] [longest_substring_without_repeating_characters](doc/longest_substring_without_repeating_characters.md)
 - [x] [longest_palindromic_substring](doc/longest_palindromic_substring.md)
 - [x] [reverse_integer](doc/reverse_integer.md)
-- [x] ​
+- [x] [string_to_integer](doc/string_to_integer.md)
 
 
 
