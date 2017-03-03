@@ -19,6 +19,7 @@
 - [x] [palindrome_number](doc/palindrome_number.md)
 - [x] [container_with_most_water](doc/container_with_most_water.md)
 - [x] [integer_to_roman](doc/integer_to_roman.md)
+- [x] [roman_to_integer](doc/roman_to_integer.md)
 
 
 
