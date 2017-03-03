@@ -30,6 +30,7 @@
 - [x] [four_sum](doc/four_sum.md)
 - [x] [remove_nth_node_from_end_of_list](doc/remove_nth_node_from_end_of_list.md)
 - [x] [valid_parentheses](doc/valid_parentheses.md)
+- [x] [merge_two_sorted_lists](doc/merge_two_sorted_lists.md)
 
 
 
