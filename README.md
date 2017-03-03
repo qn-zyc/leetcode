@@ -16,6 +16,8 @@
 - [x] [longest_palindromic_substring](doc/longest_palindromic_substring.md)
 - [x] [reverse_integer](doc/reverse_integer.md)
 - [x] [string_to_integer](doc/string_to_integer.md)
+- [x] [palindrome_number](doc/palindrome_number.md)
+- [x] [container_with_most_water](doc/container_with_most_water.md)
 
 
 
