@@ -27,6 +27,7 @@
 
 - [x] [three_sum_closest](doc/three_sum_closest.md)
 - [x] [letter_combinations_of_a_phone_number](doc/letter_combinations_of_a_phone_number.md)
+- [x] [four_sum](doc/four_sum.md)
 
 
 
