@@ -34,6 +34,7 @@
 - [x] [generate_parentheses](doc/generate_parentheses.md)
 - [x] [swap_nodes_in_pairs](doc/swap_nodes_in_pairs.md)
 - [x] [remove_duplicates_from_sorted_array](doc/remove_duplicates_from_sorted_array.md)
+- [x] [remove_element](doc/remove_element.md)
 
 
 
