@@ -40,6 +40,7 @@
 - [x] [next_permutation](doc/next_permutation.md)
 - [x] [search_in_rotated_sorted_array](doc/search_in_rotated_sorted_array.md)
 - [x] [search_for_a_range](doc/search_for_a_range.md)
+- [x] [search_insert_position](doc/search_insert_position.md)
 
 
 
