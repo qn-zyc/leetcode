@@ -38,6 +38,7 @@
 - [x] [Implement_strStr](doc/Implement_strStr.md)
 - [x] [divide_two_integers](doc/divide_two_integers.md)
 - [x] [next_permutation](doc/next_permutation.md)
+- [x] [search_in_rotated_sorted_array](doc/search_in_rotated_sorted_array.md)
 
 
 
