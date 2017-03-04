@@ -32,6 +32,7 @@
 - [x] [valid_parentheses](doc/valid_parentheses.md)
 - [x] [merge_two_sorted_lists](doc/merge_two_sorted_lists.md)
 - [x] [generate_parentheses](doc/generate_parentheses.md)
+- [x] [swap_nodes_in_pairs](doc/swap_nodes_in_pairs.md)
 
 
 
