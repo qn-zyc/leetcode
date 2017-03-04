@@ -36,6 +36,7 @@
 - [x] [remove_duplicates_from_sorted_array](doc/remove_duplicates_from_sorted_array.md)
 - [x] [remove_element](doc/remove_element.md)
 - [x] [Implement_strStr](doc/Implement_strStr.md)
+- [x] [divide_two_integers](doc/divide_two_integers.md)
 
 
 
