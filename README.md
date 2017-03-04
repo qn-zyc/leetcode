@@ -39,6 +39,7 @@
 - [x] [divide_two_integers](doc/divide_two_integers.md)
 - [x] [next_permutation](doc/next_permutation.md)
 - [x] [search_in_rotated_sorted_array](doc/search_in_rotated_sorted_array.md)
+- [x] [search_for_a_range](doc/search_for_a_range.md)
 
 
 
