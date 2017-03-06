@@ -42,6 +42,7 @@
 - [x] [search_for_a_range](doc/search_for_a_range.md)
 - [x] [search_insert_position](doc/search_insert_position.md)
 - [x] [permutations](doc/permutations.md)
+- [x] [permutations_2](doc/permutations_2.md)
 
 
 
