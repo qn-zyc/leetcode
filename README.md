@@ -45,6 +45,7 @@
 - [x] [permutations_2](doc/permutations_2.md)
 - [x] [rotate_image](doc/rotate_image.md)
 - [x] [valid_sudoku](doc/valid_sudoku.md)
+- [x] [count_and_say](doc/count_and_say.md)
 
 
 
