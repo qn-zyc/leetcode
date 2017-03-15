@@ -47,6 +47,7 @@
 - [x] [valid_sudoku](doc/valid_sudoku.md)
 - [x] [count_and_say](doc/count_and_say.md)
 - [x] [multiply_strings](doc/multiply_strings.md)
+- [x] [pow](doc/pow.md)
 
 
 
