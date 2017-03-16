@@ -51,6 +51,7 @@
 - [x] [maximum_subarray](doc/maximum_subarray.md)
 - [x] [spiral_matrix](doc/spiral_matrix.md)
 - [x] [jump_game](doc/jump_game.md)
+- [x] [merge_intervals](doc/merge_intervals.md)
 
 
 
