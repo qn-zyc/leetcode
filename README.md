@@ -52,6 +52,7 @@
 - [x] [spiral_matrix](doc/spiral_matrix.md)
 - [x] [jump_game](doc/jump_game.md)
 - [x] [merge_intervals](doc/merge_intervals.md)
+- [x] [permutation_sequence](doc/permutation_sequence.md)
 
 
 
