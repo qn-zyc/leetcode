@@ -48,6 +48,7 @@
 - [x] [count_and_say](doc/count_and_say.md)
 - [x] [multiply_strings](doc/multiply_strings.md)
 - [x] [pow](doc/pow.md)
+- [x] [maximum_subarray](doc/maximum_subarray.md)
 
 
 
