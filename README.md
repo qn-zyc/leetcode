@@ -50,6 +50,7 @@
 - [x] [pow](doc/pow.md)
 - [x] [maximum_subarray](doc/maximum_subarray.md)
 - [x] [spiral_matrix](doc/spiral_matrix.md)
+- [x] [jump_game](doc/jump_game.md)
 
 
 
