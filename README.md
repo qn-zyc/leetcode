@@ -54,6 +54,7 @@
 - [x] [merge_intervals](doc/merge_intervals.md)
 - [x] [permutation_sequence](doc/permutation_sequence.md)
 - [x] [spiral_matrix_2](doc/spiral_matrix_2.md)
+- [x] [rotate_list](doc/rotate_list.md)
 
 
 
